@@ -26,4 +26,4 @@ The Complete JavaScript Course 2024: From Zero to Expert!
 
 Many thanks to Jonas for his comprehensive teaching and this engaging course that helped develop practical skills in JavaScript and web development.
 
-**Note**: This project is intended for learning purposes and personal use. Please do not use it for teaching or claim it as your own work. If you're interested in learning JavaScript and web development, consider taking Jonas Schmedtmann's course on Udemy.
+**Note**: If you're interested in learning JavaScript and web development, consider taking Jonas Schmedtmann's course on Udemy.
